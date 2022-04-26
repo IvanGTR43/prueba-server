@@ -1,0 +1,8 @@
+{
+  "name": "IvanBackEnd",
+  "version": "0.0.1",
+  "description": "BAck end para la practica de Ivan",
+  "main": "index.js",
+  "author": "Ivan Gabriel Tacuapan Reyes",
+  "license": "MIT"
+}
